@@ -6,8 +6,8 @@ Step 3) add interactivity with bot from website
 Step 4) Query data using MySQL
 Step 5) Get better trades going using algorithm (ML?)
 
-Passphrase:
-p6o64zsiyy
 
-Secret:
-4KDUkXMMFJbrM3yGwuMIS0nUCVC/tThpIH4YJiny1Lwc+SPiHOURDh1jFxJQRUlNLt3xaq9IU2pjCLwkF33f+Q==
+
+ML Idea:
+-Use predicting crypto algorithm to write predictions to a txt file
+-Have main bot program read from the prediction txt file to make purchases
