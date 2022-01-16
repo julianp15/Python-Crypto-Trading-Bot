@@ -1,0 +1,13 @@
+Step 1) Get trading bot working (Do drop percentages to buy at dip)
+Step 2) Display trades on website
+Step 3) add interactivity with bot from website
+    - add live view of trades
+    - add option to send crypto to the portfolio as donation
+Step 4) Query data using MySQL
+Step 5) Get better trades going using algorithm (ML?)
+
+Passphrase:
+p6o64zsiyy
+
+Secret:
+4KDUkXMMFJbrM3yGwuMIS0nUCVC/tThpIH4YJiny1Lwc+SPiHOURDh1jFxJQRUlNLt3xaq9IU2pjCLwkF33f+Q==
